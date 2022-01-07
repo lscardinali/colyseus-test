@@ -1,0 +1,7 @@
+[1/7/2022, 3:34:42 AM] @colyseus/loadtest
+endpoint: ws://54.93.193.176:2567
+roomName: my_room
+numClients: 300
+scriptFile: D:\Developer\colyseus-loadtest\index.js
+logLevel: all
+output: D:\Developer\colyseus-loadtest\loadtest.log
